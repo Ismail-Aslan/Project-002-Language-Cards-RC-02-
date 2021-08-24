@@ -14,9 +14,9 @@ export default function Card(props) {
                 </>
                 : 
                 <>
-                <p>{props.cardInfo.options[0]}</p>
-                <p>{props.cardInfo.options[1]}</p>
-                <p>{props.cardInfo.options[2]}</p>
+                <p>✔ {props.cardInfo.options[0]}</p>
+                <p>🗓 {props.cardInfo.options[1]}</p>
+                <p>👨‍💻 {props.cardInfo.options[2]}</p>
                 </>
             }
         </div>
