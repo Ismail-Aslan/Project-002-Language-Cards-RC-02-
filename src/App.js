@@ -11,7 +11,9 @@ function App() {
       
       <div className="main">
         <h1 className="main-heading">Languages</h1>
-        {categories.map((element)=><Card cardInfo={element}></Card>)}
+        <div className="cards-container">
+            {categories.map((element)=><Card cardInfo={element}></Card>)}
+        </div>
       </div>
     </div>
   );
