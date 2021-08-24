@@ -1,16 +1,25 @@
 .header-container {
-    width: 80%;
-    margin: 0 auto;
-    border: solid;
+    margin: 10px 0;
 }
 .header-logo {
-    width: 80%;
-    display: block;
-    margin: auto;
-    border: solid;
+    height: 150px;
 }
 .main {
     width: 80%;
     margin: 0 auto;
-    border: solid;
+    background-color: #F48B29;
+  
+    border-radius: 10px;
+    padding: 10px 0;
 }
+.main-heading{
+    color:#fff;
+    font-size:1.5rem;
+    text-align: center;
+}
+.cards-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
