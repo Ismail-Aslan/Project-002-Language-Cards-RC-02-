@@ -33,3 +33,9 @@ body{
     align-items: center;
     flex-wrap: wrap;
   }
+
+  a {
+      text-decoration: none;
+      color: yellowgreen;
+      font-style:italic ;
+  }

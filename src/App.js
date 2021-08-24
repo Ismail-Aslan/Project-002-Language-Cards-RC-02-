@@ -15,6 +15,7 @@ function App() {
             {categories.map((element)=><Card cardInfo={element}></Card>)}
         </div>
       </div>
+      <h3><a href="https://github.com/Ismail-Aslan">Ismail ASLAN 🖊</a></h3>
     </div>
   );
 }
