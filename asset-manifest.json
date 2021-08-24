@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Project-002-Language-Cards-RC-02-/static/css/main.c03c4444.chunk.css",
+    "main.js": "/Project-002-Language-Cards-RC-02-/static/js/main.c3f88691.chunk.js",
+    "main.js.map": "/Project-002-Language-Cards-RC-02-/static/js/main.c3f88691.chunk.js.map",
+    "runtime-main.js": "/Project-002-Language-Cards-RC-02-/static/js/runtime-main.50a0eefa.js",
+    "runtime-main.js.map": "/Project-002-Language-Cards-RC-02-/static/js/runtime-main.50a0eefa.js.map",
+    "static/js/2.d69ec515.chunk.js": "/Project-002-Language-Cards-RC-02-/static/js/2.d69ec515.chunk.js",
+    "static/js/2.d69ec515.chunk.js.map": "/Project-002-Language-Cards-RC-02-/static/js/2.d69ec515.chunk.js.map",
+    "static/js/3.1b9d6e98.chunk.js": "/Project-002-Language-Cards-RC-02-/static/js/3.1b9d6e98.chunk.js",
+    "static/js/3.1b9d6e98.chunk.js.map": "/Project-002-Language-Cards-RC-02-/static/js/3.1b9d6e98.chunk.js.map",
+    "index.html": "/Project-002-Language-Cards-RC-02-/index.html",
+    "static/css/main.c03c4444.chunk.css.map": "/Project-002-Language-Cards-RC-02-/static/css/main.c03c4444.chunk.css.map",
+    "static/js/2.d69ec515.chunk.js.LICENSE.txt": "/Project-002-Language-Cards-RC-02-/static/js/2.d69ec515.chunk.js.LICENSE.txt",
+    "static/media/cpp.c0a0d2fd.png": "/Project-002-Language-Cards-RC-02-/static/media/cpp.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/Project-002-Language-Cards-RC-02-/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/Project-002-Language-Cards-RC-02-/static/media/go.a0b3b49a.png",
+    "static/media/java.a507ef79.png": "/Project-002-Language-Cards-RC-02-/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/Project-002-Language-Cards-RC-02-/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/Project-002-Language-Cards-RC-02-/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/Project-002-Language-Cards-RC-02-/static/media/python.40f1d1b1.png",
+    "static/media/react.7b78f5c3.svg": "/Project-002-Language-Cards-RC-02-/static/media/react.7b78f5c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50a0eefa.js",
+    "static/js/2.d69ec515.chunk.js",
+    "static/css/main.c03c4444.chunk.css",
+    "static/js/main.c3f88691.chunk.js"
+  ]
+}
